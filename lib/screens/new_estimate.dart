@@ -5,7 +5,7 @@ class NewEstimateScreen extends StatelessWidget {
  Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('TEMP'),
+        title: Text('New Estimate'),
       ),
       body: Center(
         child: Column(
